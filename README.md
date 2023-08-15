@@ -23,3 +23,6 @@
 <br/>
 
 ## 결 과(Output)
+![설명.PNG](https://github.com/mb5ss95/LabelingApp/blob/main/img/2.png)
+![방법1.PNG](https://github.com/mb5ss95/LabelingApp/blob/main/img/1.png)
+![방법2.PNG](https://github.com/mb5ss95/LabelingApp/blob/main/img/3.png)
